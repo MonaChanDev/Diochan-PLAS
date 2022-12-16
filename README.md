@@ -11,12 +11,19 @@ Diochan Plas è uno script JS che aggiunge funzionalità a diochan.com<br>
 - Contatore di "SALVIA" per ogni thread
 - Indicatore di thread andato in "AUTOSALVIA" (basato su euristiche)
 - Notifica nuovo post nei thread nella watchlist
+- Sort dei thread ignorando la SALVIA  (sort in base alla data dell'ultima risposta)
+- Suono scorreggia al tasto rispondi
+- Pannello di controllo impostazioni
 
 Per ulteriori aggiunte fate pure richiesta
+
+## Attualmente in lavoro su:
+- Sort dei thread ignorando la SALVIA  (sort in base alla data dell'ultima risposta)
+
 
 ## Su cosa gira?
 Su estensioni che consentono iniezioni di codice scritto da utenti nelle pagine web. Ad esempio Greasemonkey.
 Attualmente lo script viene testato e reso funzionante per *Violentmonkey per firefox*. Se c'è richiesta e tempo e voglia miei, cerco di fare dei porting nel caso sarà necessario.
 
 ## Come si installa?
-Per installarlo basta compiare lo script in repo e incollarlo su Violentmonkey
+Per installarlo basta copiare lo script in repo e incollarlo su Violentmonkey
