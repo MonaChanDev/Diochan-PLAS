@@ -1,6 +1,6 @@
-# Diochan PLAS
+# Diochan PLAS v0.1.0 (uselsess shit)
 ## Cos'è?
-Diochan Plas è uno script JS che aggiunge funzionalità a diochan.com<br>
+Diochan PLAS è uno script JS che aggiunge funzionalità a diochan.com<br>
 È da considerare, almeno allo stato attuale, come un progettino da scuola media, se volete dare un'occhiata al codice fate pure, ma non aspettatevi sto gran livello di scrittura codice. Ho sempre schifato JS e il front-end.
 
 ## Funzionalità aggiunte:
